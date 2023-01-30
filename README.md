@@ -5,6 +5,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakichris//)](https://www.linkedin.com/in/hakichris//)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hakichris" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bi.linkedin.com/in/hakichris?trk=profile-badge">Christian Hakizimana</a></div>
+              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
