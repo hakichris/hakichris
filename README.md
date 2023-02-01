@@ -1,6 +1,7 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Christian Hakizimana(he/him)</h1>
 <h3 align="center">A passionate and ambitious Full Stack Developer from Burundi</h3>
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakichris" alt="hakichris" /></a> </p>
 
