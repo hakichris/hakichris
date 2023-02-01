@@ -1,3 +1,4 @@
+![MasterHead](bg.png)
 <h1 align="center">Hi 👋, I'm Christian Hakizimana(he/him)</h1>
 <h3 align="center">A passionate Full Stack Developer from Burundi</h3>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
