@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakichris" alt="hakichris" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Ruby, Saas**
 
 - 👨‍💻 All of my projects are available at [https://hakichris.github.io/Christian_Portfolio.github.io/](https://hakichris.github.io/Christian_Portfolio.github.io/)
 
-- 💬 Ask me about **Javascript, html, css ruby, rail**
+- 💬 Ask me about **Javascript, html, css, ruby, rail**
 
 - 📫 How to reach me **hakizachrist1@outlook.com**
 
