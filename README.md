@@ -4,7 +4,7 @@
 <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakichris" alt="hakichris" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakichris" alt="hakichris" /></a> </p>
 
 - 🌱 I’m currently learning **React, Ruby, Sass**
 
