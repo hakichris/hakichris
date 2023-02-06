@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hakichris.github.io/Christian_Portfolio.github.io/](https://hakichris.github.io/Christian_Portfolio.github.io/)
 
-- 💬 Ask me about **Javascript, html, css, ruby, rail**
+- 💬 Ask me about **JavaScript, Html, CSS, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **hakizachrist1@outlook.com**
 
