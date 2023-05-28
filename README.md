@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Christian Hakizimana(he/him)</h1>
-<h3 align="center">A passionate and ambitious Full Stack Developer from Burundi</h3>
+<h3 align="center">if you need a developer who can improve your company's productivity and efficiency to more than 50%, then you find the right person </h3>
 <div align="center" ><img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"></div>
 
 
