@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hakizachrist1@outlook.com**
 
-- ⚡ Fun fact **I am learning to swim**
+- ⚡ Fun fact **I am learning to swim because I did not get an opportunity when i was a kid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
