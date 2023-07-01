@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Ruby on Rails, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://hakichris.github.io/Christian_Portfolio.github.io/](https://hakichris.github.io/Christian_Portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [](Coming soon)
 
 - 💬 Ask me about **JavaScript, Html, CSS, Ruby, Ruby on Rails**
 
