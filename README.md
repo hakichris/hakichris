@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Ruby on Rails, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [](Coming soon)
+- 👨‍💻 All of my projects are available at [coming soon](Coming soon)
 
 - 💬 Ask me about **JavaScript, Html, CSS, Ruby, Ruby on Rails**
 
