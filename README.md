@@ -6,15 +6,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakichris" alt="hakichris" /></a> </p>
 
-- 🌱 I’m currently learning **React, Ruby on Rails, Cybersecurity**
+- 🌱 I’m currently learning **Wordpress and Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at [https://christian-hakizimana.onrender.com/Project](Portfolio)
 
-- 💬 Ask me about **JavaScript, Html, CSS, Ruby, Ruby on Rails**
+- 💬 Ask me about **JavaScript, HTML5, CSS3, Ruby, Ruby on Rails, React**
 
 - 📫 How to reach me **hakizachrist1@outlook.com**
 
-- ⚡ Fun fact: **I am learning to swim because I did not get an opportunity when i was a kid**
+- ⚡ Fun fact: **I am learning to swim because I did not get an opportunity when I was a kid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
