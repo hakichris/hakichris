@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Wordpress and Cybersecurity**
 
-- 👨‍💻 All of my projects are available at (https://christian-hakizimana.onrender.com/)(Portfolio)
+- 👨‍💻 All of my projects are available at https://christian-hakizimana.onrender.com
 
 - 💬 Ask me about **JavaScript, HTML5, CSS3, Ruby, Ruby on Rails, React**
 
