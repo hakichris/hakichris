@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript and Cybersecurity**
 
-- 👨‍💻 Please, visit my portfolio at https://christian-hakizimana.onrender.com
+- 👨‍💻 Please, visit my portfolio at https://christian-hakizimana.netlify.app/
 
 - 💬 Ask me about **JavaScript, HTML5, CSS3, Ruby, Ruby on Rails, React**
 
