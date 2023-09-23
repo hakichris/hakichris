@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakichris" alt="hakichris" /></a> </p>
 
-- 🌱 I’m currently learning **Wordpress and Cybersecurity**
+- 🌱 I’m currently learning **Typescript and Cybersecurity**
 
 - 👨‍💻 Please, visit my portfolio at https://christian-hakizimana.onrender.com
 
