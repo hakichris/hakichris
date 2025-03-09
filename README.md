@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Christian Hakizimana(he/him)</h1>
-<h3 align="center"> Hello! I'm Christian, a full-stack developer who crafts ingenious solutions for intricate challenges. Let's innovate together! </h3>
+<h3 align="center"> Hello! I'm Christian, a full-stack developer and IT security engineer who crafts ingenious solutions for intricate challenges. Let's innovate together! </h3>
 <div align="center" ><img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"></div>
 
 
